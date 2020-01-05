@@ -10,6 +10,10 @@ More example text.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+
+Adding more purpose text.
 
 ## Deployment
+
+More deployment text.
