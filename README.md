@@ -17,3 +17,7 @@ Adding more purpose text.
 ## Deployment
 
 More deployment text.
+
+### Copyright
+
+2020 Syed Enterprises.
