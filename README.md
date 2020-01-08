@@ -16,6 +16,10 @@ Adding more purpose text.
 
 ## Deployment
 
+## How to Contribute
+
+Please fork this repository and then issue pull request for review.
+
 More deployment text.
 
 ### Copyright
