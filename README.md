@@ -25,4 +25,4 @@ More deployment text.
 
 ### Copyright
 
-2020 Syed Enterprises.
+2020 Syed Enterprises. All rights reserved.
